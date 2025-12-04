@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.mycompany.gadirlab_car;
-
+// t
 public class AppointmentResult {
     private int appointmentId;
     private String patientName;
